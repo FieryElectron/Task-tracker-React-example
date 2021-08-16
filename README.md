@@ -1,6 +1,6 @@
 # Task-tracker-React-example
 
-## Start dev
+## Start dev server
     npm start
 
 ## Start json server
